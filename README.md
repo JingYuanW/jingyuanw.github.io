@@ -4,7 +4,7 @@
 
 ##### Getting your own copy of the template
 
-* Click the **Fork** icon in the top-right corner.
+* Click the **Fork** icon in the top-right corner. uwu
 * After you have your own copy, click **Edit** next to the description and update it!
   * For example, _This is a collection of all of my work._
 
